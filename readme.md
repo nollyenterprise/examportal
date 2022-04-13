@@ -1,4 +1,5 @@
 
+The goal of this project is to help educational platforms have a good way to access and monitor their students online through a portal.<br><br>
 Create and manage online quiz, test, exam on your portal.<br>
 <br> 
 
