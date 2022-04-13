@@ -19,3 +19,10 @@ Create and manage online quiz, test, exam on your portal.<br>
 <br><br>
  Result or Report: <br>
     Detailed report with score obtained, percentage, percentile, categorywise report and google chart. Admin can allow users to view correct answers.
+
+<br><br>
+<br><br>
+ Installation: <br>
+    Install the database.sql file on your mysql database.
+    Update the base_url and database parameters on the file path => /application/config/sq_config.php
+    Run the project.
