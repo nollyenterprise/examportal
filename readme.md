@@ -23,6 +23,6 @@ Create and manage online quiz, test, exam on your portal.<br>
 <br><br>
 <br><br>
  Installation: <br>
-    Install the database.sql file on your mysql database.
-    Update the base_url and database parameters on the file path => /application/config/sq_config.php
+    Install the database.sql file on your mysql database. <br>
+    Update the base_url and database parameters on the file path => /application/config/sq_config.php <br>
     Run the project.
